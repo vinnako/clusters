@@ -19,5 +19,5 @@ curl -sfL https://get.k3s.io | K3S_URL=https://myserver:6443 K3S_TOKEN=XXX sh -
 <p> For output follow command in master node</P>
 
 ```
-kubectl get nodes
+sudo k3s kubectl get nodes
 ```
