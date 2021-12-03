@@ -11,3 +11,6 @@ sudo git clone https://github.com/asrikanth29/k8s && sudo chmod 755 ./k8s/microk
 ```
 microk8s kubectl get nodes
 ```
+micro
+jihiaii
+
