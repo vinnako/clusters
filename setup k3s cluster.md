@@ -1,4 +1,5 @@
-prerequisite:cloud account 
+prerequisite: cloud account , Two ubuntu servers 
+
 <p> Install k3s using below command on 1st vm </p>
 
 ```
