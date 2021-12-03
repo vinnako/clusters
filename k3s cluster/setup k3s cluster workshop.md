@@ -1,7 +1,5 @@
-## prerequisite <hr>
-* cloud account 
-* Two ubuntu servers 
-
+ prerequisite: Cloud account , Two ubuntu servers 
+ 
 <p> Install k3s using below command on 1st vm </p>
 
 ```
@@ -22,3 +20,4 @@ curl -sfL https://get.k3s.io | INSTALL_K3S_VERSION=v1.20.7+k3s1 K3S_URL=https://
 
 ```
 sudo k3s kubectl get nodes
+```
